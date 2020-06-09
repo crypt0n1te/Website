@@ -1,6 +1,7 @@
-from flask import Flask
+from flask import Flask, request
+import git
 app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'Awesome site coming soon'
+    return 'Cool site coming soon'
