@@ -1,8 +1,6 @@
 from flask import Flask, render_template, request
 from flask_assets import Environment, Bundle
 
-
-
 app = Flask(__name__)
 
 # the following preprocesses the scss files, converting them
