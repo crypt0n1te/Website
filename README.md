@@ -1,4 +1,4 @@
-# website
+# Website
 
 The crypt0n1te website.
 
@@ -6,7 +6,7 @@ The crypt0n1te website.
 #### Downloading
 * clone the repo:
 ```bash
-$ git clone https://github.com/crypt0n1te/website.git
+$ git clone https://github.com/crypt0n1te/Website.git
 ```
 * install requirements, e.g. using pip:
 ```bash
