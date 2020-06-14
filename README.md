@@ -1,6 +1,6 @@
 # Website
 
-The crypt0n1te website.
+The website.
 
 
 #### Downloading
