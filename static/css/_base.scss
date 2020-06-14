@@ -9,22 +9,54 @@ header {
 .title-banner{
   display: block;
   margin: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .title-text{
-  padding-top: 15px;
-  padding-bottom: 15px;
   font-family: 'Open Sans', sans-serif;
   weight: 800;
   font-size: 50px;
+  color: #c49c48;
+  margin: 0;
+}
+
+.links{
+  color: #BFBFBF;
+  font-style: italic;
+}
+
+.individual_link{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.page_title{
+  font-size: 50px;
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+  margin-top: 10px;
 }
 
 body {
   margin: 0;
   padding: 0;
   font-size: 16px; // use em everywhere else
-  font-family: "Arial", "Helvetica", sans-serif;
+  font-family: 'Merriweather', serif;
   background: $background-color;
   color: $text-color;
   scroll-behavior: smooth;
+}
+
+.centered-content{
+  width: vw;
+  height: auto;
+  min-height: 400px;
+  text-align: center;
+  background-color: $content-background;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 0;
+  padding: 10px;
+  margin-bottom: 30px;
 }
