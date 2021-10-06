@@ -17,3 +17,5 @@ $ pip install -r requirements.txt
 #### Current feature ideas:
 * show ctf write-ups
 * add ctf write-ups
+
+last updated 01/01/21
